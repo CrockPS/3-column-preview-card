@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+#d0{
+    width: 800px;
+    height: 450px;
+    margin: auto;
+    margin-top: 8%;
+    display: flex;
+}
+
+#d1{
+    width: 33.3%;
+    background: #e38826;
+}
+
+#d2{
+    width: 33.3%;
+    background: #006970;
+}
+
+#d3{
+    width: 33.3%;
+    background: #004241;
+}
+
+img{
+    width: 60px;
+    height: 37px;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+
+h2{
+    font-size: 33px;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+.text{
+    font-size: 15px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 60px;
+    text-align: left;
+}
+
+.bt{
+    width: 130px;
+    height: 30px;
+    background: white;
+    text-align: center;
+    padding-top: 12px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius: 25px;
+    
+}
+
+#a1{
+    text-decoration: none;
+    color: #e38826;
+}
+
+#a2{
+    text-decoration: none;
+    color: #006970;
+}
+
+#a3{
+    text-decoration: none;
+    color: #004241;
+}
+
+.bt:hover{
+    background: rgb(0, 0, 0, 0.3);
+}
+
+p, a{
+    font-family: 'Lexend Deca', sans-serif;
+}
